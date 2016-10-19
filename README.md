@@ -4,7 +4,7 @@ A project designed and developed for the [iOS Developer Nanodegree](https://www.
 
 # PitchPerfect
 
-PitchPerfect is an app records your voice and has the ability to play back your voice in various modes - Slow, Fast, .  
+PitchPerfect is an app records your voice and has the ability to play back your voice in various modes - Slow, Fast, Chipmunk, Darth Vader, Echo and Reverb.  
 
 
 ## Table Of Contents
