@@ -18,6 +18,8 @@ PitchPerfect is an app records your voice and has the ability to play back your 
 
 - Clone the source code: `git clone git@github.com:mickeyckm/nanodegree-pitchperfect.git`
 - Open `PitchPerfect.xcodeproj` using Xcode.
+- Press `Command + R` or `Product > Run` to build and run the project.
+
 
 ## Screenshots
 
