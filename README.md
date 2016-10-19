@@ -21,10 +21,12 @@ PitchPerfect is an app records your voice and has the ability to play back your 
 
 ## Screenshots
 
-![home](https://raw.github.com/mickeyckm/nanodegree-pitchperfect/master/Screenshots/home-screen.png)
-![recording1](https://raw.github.com/mickeyckm/nanodegree-pitchperfect/master/Screenshots/recording1.png)
-![recording2](https://raw.github.com/mickeyckm/nanodegree-pitchperfect/master/Screenshots/recording2.png)
-![playback](https://raw.github.com/mickeyckm/nanodegree-pitchperfect/master/Screenshots/playback.png)
+Screenshot | Caption
+---------- | -----------
+![home](https://raw.github.com/mickeyckm/nanodegree-pitchperfect/master/Screenshots/home-screen.jpg) | Home screen showing the icon
+![recording1](https://raw.github.com/mickeyckm/nanodegree-pitchperfect/master/Screenshots/recording1.jpg) | Record screen
+![recording2](https://raw.github.com/mickeyckm/nanodegree-pitchperfect/master/Screenshots/recording2.jpg) | Record screen in recording mode
+![playback](https://raw.github.com/mickeyckm/nanodegree-pitchperfect/master/Screenshots/playback.jpg) | Playback screen showing various mode
 
 
 ## License
